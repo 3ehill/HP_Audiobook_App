@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Harry Potter Collection</string>
+    <string name="library">Back to Your Books</string>
+    <string name="playing">Continue Listening</string>
+    <string name="hp1">Harry Potter and the Sorcerer\'s Stone</string>
+    <string name="hp2">Harry Potter and the Chamber of Secrets</string>
+    <string name="hp3">Harry Potter and the Prisoner of Azkaban</string>
+    <string name="hp4">Harry Potter and the Goblet of Fire</string>
+    <string name="hp5">Harry Potter and the Order of the Phoenix</string>
+    <string name="hp6">Harry Potter and the Half Blood Prince</string>
+    <string name="hp7">Harry Potter and the Deathly Hallows</string>
+    <string name="author">J.K. Rowling</string>
+    <string name="duration">497 min</string>
+    <string name="zero">00:00</string>
+</resources>
